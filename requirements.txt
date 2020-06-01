@@ -357,6 +357,7 @@ umap-learn==0.4.3
 uritemplate==3.0.1
 urllib3==1.24.3
 vega-datasets==0.8.0
+vaderSentiment==3.3.2
 wasabi==0.6.0
 wcwidth==0.1.9
 webencodings==0.5.1
