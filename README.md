@@ -38,7 +38,7 @@ Beer Data Science exploratory data analysis.
 ## Steps to Run:
 
 
-* Create environment using conda or venv with python 3.6
+* Create environment using conda or venv having python 3.6 ex: ```conda create -n env_name python=3.6```
 * ```pip install -r requirements.txt```
 * All the notebooks are present in notebooks folder.
 * There are 4 notebooks. First notebooks can be run locally and all others notebooks should be run 
