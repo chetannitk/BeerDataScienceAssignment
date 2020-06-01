@@ -35,8 +35,9 @@ Project Organization
     ├── src                <- Source code for use in this project.
     │   ├── __init__.py    <- Makes src a Python module
     
-    
- ## Steps to Run:
+ 
+Steps to Run:
+=======================
 
     - Create environment using conda or venv with python 3.6
     - pip install -r requirements.txt
