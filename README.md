@@ -43,4 +43,8 @@ Project Organization
     - All the notebooks are present in notebooks folder.
     - There are 4 notebooks. First notebooks can be run locally and all others notebooks should be run 
        in google colab because of higher computation.
+    - **02-Beer_review_natural_language_understanding.ipynb** contains the preprocessing of sentence embedding and its vector
+       indexing in FAISS. It will take time to generate the index. I have shared **data** folder link in mail you have to put
+       data folder inside My Drive in google drive to run all others notebook.
+    - **03-Beer_recommendation_based_on_review.ipynb** Contain the beer recommendation based on riview similarity.
     
