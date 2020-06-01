@@ -37,7 +37,7 @@ Project Organization
     
     
  ## Steps to Run:
----------------------------------
+
     - Create environment using conda or venv with python 3.6
     - pip install -r requirements.txt
     - All the notebooks are present in notebooks folder.
