@@ -47,4 +47,5 @@ Beer Data Science exploratory data analysis.
        indexing in FAISS. It will take time to generate the index. I have shared **data** folder link in mail you have to put
        data folder inside My Drive in google drive to run all others notebook.
 * **03-Beer_recommendation_based_on_review.ipynb** Contain the beer recommendation based on riview similarity.
+* Click on the colab icon in 02, 03, 04 notebook to run in Google Colab.
     
