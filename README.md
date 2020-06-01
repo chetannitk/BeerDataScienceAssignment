@@ -36,7 +36,6 @@ Project Organization
     │   ├── __init__.py    <- Makes src a Python module
     
     
-    
-    Steps to Run:
+ ## Steps to Run:
 ---------------------------------
-    - [Notebook-1](https://github.com/chetannitk/BeerDataScienceAssignment/blob/master/notebooks/01-Exploratory-Data-Analysis.ipynb)
+    * [Notebook-1](https://github.com/chetannitk/BeerDataScienceAssignment/blob/master/notebooks/01-Exploratory-Data-Analysis.ipynb)
