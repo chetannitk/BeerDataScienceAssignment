@@ -38,4 +38,4 @@ Project Organization
     
  ## Steps to Run:
 ---------------------------------
-    [Notebook-1](BeerDataScienceAssignment/blob/master/notebooks/01-Exploratory-Data-Analysis.ipynb)
+    <a href="https://github.com/chetannitk/BeerDataScienceAssignment/blob/master/notebooks/01-Exploratory-Data-Analysis.ipynb"> Notebook-1 </a>
