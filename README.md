@@ -1,10 +1,9 @@
-BeerDataScienceAssignment
-==============================
+# BeerDataScienceAssignment
 
 Beer Data Science exploratory data analysis.
 
-Project Organization
-------------
+## Project Organization
+
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
